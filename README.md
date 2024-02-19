@@ -23,7 +23,7 @@ This script is designed to interact with Dataverse repositories, specifically fo
 
 4. **Create Readme**:
     - Generate a README file containing detailed information about the dataset.
-    - Include sections for general information, description, authorship, dataset contact, keywords, topic classification, production details, contributor information, grant details, distributor information, time period covered, date of data collection, etc.
+    - Include sections for general information, access information, different kinds of metadata and file overview metadata.
     - Write extracted metadata to the README file.
 
 5. **Download README**:
