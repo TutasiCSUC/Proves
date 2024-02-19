@@ -1,4 +1,5 @@
 # Script per crear un fitxer Readme d'un dataset a Dataverse
+Per a qualsevol consulta sobre el codi, poseu-vos en contacte amb rdr-contacte@csuc.cat
 
 ## Descripció
 Aquest script està dissenyat per interactuar amb repositoris Dataverse, específicament per exportar metadades de conjunts de dades identificats amb Identificadors d'Objectes Digitals (DOI). Utilitza la llibreria pyDataverse per accedir i recuperar metadades, que es poden utilitzar per generar un fitxer README proporcionant informació detallada sobre els conjunts de dades.
