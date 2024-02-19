@@ -1,4 +1,5 @@
 # Script to create a Readme file for a dataset in Dataverse
+For any queries regarding the code, contact rdr-contacte@csuc.cat
 
 ## Overview
 This script is designed to interact with Dataverse repositories, specifically for exporting metadata from datasets identified by Digital Object Identifiers (DOIs). It utilizes the pyDataverse library to access and retrieve metadata, which can then be used to generate a README file providing detailed information about the datasets.
