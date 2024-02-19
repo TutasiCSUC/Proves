@@ -42,4 +42,3 @@ doi = 'doi:10.34810/dataXXX'
 token = 'your_token_here'
 
 # Run the script
-# (insert script execution command here)
